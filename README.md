@@ -25,8 +25,7 @@ The core idea is to train a classifier on labeled news data and then use it to p
 - Scikit-learn
 - Pandas
 - NumPy
-- NLTK / SpaCy
-- Flask (for web app, optional)
+- Seaborn
 - Jupyter Notebook (for development)
 
 ## 📊 Dataset
@@ -40,8 +39,6 @@ We use the **Fake and Real News Dataset** available on Kaggle:
 ## 🚀 Installation
 
 1. **Clone the repository**
-
-```bash
 git clone https://github.com/your-username/fake-news-detection.git
 cd fake-news-detection
 
